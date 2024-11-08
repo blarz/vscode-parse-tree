@@ -39,6 +39,7 @@ const languages: {
   nix: { module: "tree-sitter-nix" },
   perl: { module: "tree-sitter-perl" },
   php: { module: "tree-sitter-php" },
+  powershell: { module: "tree-sitter-powershell" },
   python: { module: "tree-sitter-python" },
   ruby: { module: "tree-sitter-ruby" },
   rust: { module: "tree-sitter-rust" },

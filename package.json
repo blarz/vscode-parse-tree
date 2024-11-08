@@ -49,6 +49,7 @@
     "onLanguage:nix",
     "onLanguage:perl",
     "onLanguage:php",
+    "onLanguage:powershell",
     "onLanguage:python",
     "onLanguage:ruby",
     "onLanguage:rust",
